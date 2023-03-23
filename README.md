@@ -1,6 +1,6 @@
 # SNyaSanchez-esiil-stars-webpage
 !(C:\Users\35976\Downloads\thumbnail_IMG-0298.jpg)
-<h2> S'Nya Sanchez 2</h2>
+<h2> S'Nya Sanchez </h2>
 =========================
 <h4>United Tribes Technical College (3rd Year): Dual Majoring in Environmental Science and Business Administrations</h4>
 <p>Contact Information:</p>
